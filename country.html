@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Geography Genius</title>
+        <link rel="stylesheet" href="css/info.css" type="text/css" media="screen">
+		<script src="js/jquery-1.11.3.min.js"></script>
+<script>
+	$(document).ready(function() {
+        $('body').hide().delay( 1000 ).fadeIn('slow');
+    });
+</script>
+<script>
+var country_name = window.location.toString();
+var res = country_name.split("?");
+var country_name = res[1];
+if (window.XMLHttpRequest)
+{
+	xmlhttp=new XMLHttpRequest();
+}
+else
+{
+	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+}
+xmlhttp.open("GET","xml/country_info.xml");
+xmlhttp.send();
+xmlhttp.onreadystatechange=function(){
+	if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+		xmlDoc=xmlhttp.responseXML; 
+		var x=xmlDoc.getElementsByTagName("country");
+		for (i=0;i<x.length;i++)
+		{ 
+			name= x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue;
+			if(name.localeCompare(country_name)==0)
+			{
+				capital= x[i].getElementsByTagName("capital")[0].childNodes[0].nodeValue;
+				info= x[i].getElementsByTagName("info")[0].childNodes[0].nodeValue;
+				flag = "country_info/".concat(name).concat(".svg");
+				document.getElementById('flag_img').src = flag;
+				document.getElementById('name').innerHTML = name.replace(/_/g, " ");
+				document.getElementById('capital').innerHTML = capital; 
+				document.getElementById('info').innerHTML = info; 
+				break;
+			}
+		}
+	}
+};
+</script>
+</head>
+<body>	
+	<center>
+	<div id="flag">
+		<img id="flag_img" alt="Flag" src="" width="200" height="100">
+	</div>
+	<h2><label id="name"></label></h2>
+	<h3> Capital : <label id="capital"></label></h3>
+	<p><div id="info"></div> </p>
+	<a href="http://en.wikipedia.org">Source : Wikipedia</a>
+	</center>
+</body>
+</html>

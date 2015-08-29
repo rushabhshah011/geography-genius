@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_bank>
+	<question answer="Washington, D.C.">
+		<question_text>Select Capital of United States.</question_text>
+		<option>Washington, D.C.</option>
+		<option>New York</option>
+		<option>Chicago</option>
+		<option>San Francisco</option>
+	</question>
+	<question answer="Brasília">
+		<question_text>Select Capital of Brazil.</question_text>
+		<option>Rio de Janeiro</option>
+		<option>Brasília</option>
+		<option>São Paulo</option>
+		<option>Minas Gerais</option>
+	</question>
+	<question answer="Seoul">
+		<question_text>Select Capital of South Korea.</question_text>
+		<option>Busan</option>
+		<option>Incheon</option>
+		<option>Daegu</option>
+		<option>Seoul</option>
+	</question>
+	<question answer="Cairo">
+		<question_text>Select Capital of Egypt.</question_text>
+		<option>Alexandria</option>
+		<option>Cairo</option>
+		<option>Giza</option>
+		<option>Suez</option>
+	</question>
+	<question answer="Tokyo">
+		<question_text>Select Capital of Japan.</question_text>
+		<option>Yokohama</option>
+		<option>Tokyo</option>
+		<option>Osaka</option>
+		<option>Nagoya</option>
+	</question>
+	<question answer="Canberra">
+		<question_text>Select Capital of Australia.</question_text>
+		<option>Sydney</option>
+		<option>Melbourne</option>
+		<option>Canberra</option>
+		<option>Brisbane</option>
+	</question>
+	<question answer="None">
+		<question_text>Select Capital of Switzerland.</question_text>
+		<option>Zurich</option>
+		<option>Geneva</option>
+		<option>Basel</option>
+		<option>None</option>
+	</question>
+	<question answer="Moscow">
+		<question_text>Select Capital of Russia.</question_text>
+		<option>Moscow</option>
+		<option>Saint Petersburg</option>
+		<option>Novosibirsk</option>
+		<option>Yekaterinburg</option>
+	</question>
+	<question answer="New Delhi">
+		<question_text>Select Capital of India.</question_text>
+		<option>Mumbai</option>
+		<option>Kolkata</option>
+		<option>New Delhi</option>
+		<option>Bangalore</option>
+	</question>
+	<question answer="Ottawa">
+		<question_text>Select Capital of Canada.</question_text>
+		<option>Toronto</option>
+		<option>Montreal</option>
+		<option>Winnipeg</option>
+		<option>Ottawa</option>
+	</question>
+</question_bank>

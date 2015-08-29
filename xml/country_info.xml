@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country_info>
+	<country>
+		<name>United_Arab_Emirates</name>
+		<capital>Abu Dhabi</capital>
+		<info>The United Arab Emirates, sometimes simply called the Emirates or the UAE is a country located in the southeast end of the Arabian Peninsula on the Persian Gulf. Established in December 1971, the country is a federation of seven emirates.</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Afghanistan</name>
+		<capital>Kabul</capital>
+		<info>Afghanistan  officially the Islamic Republic of Afghanistan, is a landlocked country located within South Asia and Central Asia.It has a population of approximately 31 million people</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Albania</name>
+		<capital>Tirana</capital>
+		<info>Albania, officially known as the Republic of Albania is a country in Southeastern Europe. It is bordered by Montenegro to the northwest, Kosovo to the northeast, the Republic of Macedonia to the east, and Greece to the south and southeast. It has a coast on the Adriatic Sea to the west and on the Ionian Sea to the southwest. It is less than 72 km (45 mi) from Italy, across the Strait of Otranto which links the Adriatic Sea to the Ionian Sea.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Armenia</name>
+		<capital>Yerevan</capital>
+		<info>Angola, officially the Republic of Angola is a country in Southern Africa. It is the seventh-largest country in Africa, and is bordered by Namibia to the south, the Democratic Republic of the Congo to the north, Zambia to the east, and the Atlantic Ocean to west. The exclave province of Cabinda has borders with the Republic of the Congo and the Democratic Republic of the Congo. The capital and largest city is Luanda.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Angola</name>
+		<capital>Luanda</capital>
+		<info>The United Arab Emirates, sometimes simply called the Emirates or the UAE is a country located in the southeast end of the Arabian Peninsula on the Persian Gulf. Established in December 1971, the country is a federation of seven emirates.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Argentina</name>
+		<capital>Buenos Aires</capital>
+		<info>Argentina, officially the Argentine Republic is a federal republic located in southeastern South America. Argentina has the third-largest economy in Latin America and is a member of the G-15 and G-20 major economies. It is also a founding member of the United Nations, World Bank, WTO, Mercosur, UNASUR, CELAC and OEI. Because of its stability, market size and growing high-tech sector.</info>
+		<continent>South America</continent>
+	</country>
+	<country>
+		<name>Austria</name>
+		<capital>Vienna</capital>
+		<info>Austria, officially the Republic of Austria is a federal republic and a landlocked country of over 8.5 million people in Central Europe. It is bordered by the Czech Republic and Germany to the north, Hungary and Slovakia to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The territory of Austria covers 83,879 square kilometres (32,386 sq mi) and has an alpine climate.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Australia</name>
+		<capital>Canberra</capital>
+		<info>Australia, officially the Commonwealth of Australia is an Oceanian country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the world's sixth-largest country by total area. Neighbouring countries include Papua New Guinea, Indonesia and East Timor to the north; the Solomon Islands and Vanuatu to the north-east; and New Zealand to the south-east.</info>
+		<continent>Australia</continent>
+	</country>
+	<country>
+		<name>Azerbaijan</name>
+		<capital>Baku</capital>
+		<info>Azerbaijan, officially the Republic of Azerbaijan is a transcontinental country in the Caucasus region, situated at the crossroads of Eastern Europe and Western Asia.It is bounded by the Caspian Sea to the east, Russia to the north, Georgia to the northwest, Armenia to the west and Iran to the south.</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Bosnia_and_Herzegovina</name>
+		<capital>Sarajevo</capital>
+		<info>Bosnia and Herzegovina, often known informally as Bosnia is a country in Southeastern Europe located on the Balkan Peninsula. Sarajevo is the capital and largest city.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Bangladesh</name>
+		<capital>Dhaka</capital>
+		<info>Bangladesh, officially the People's Republic of Bangladesh is a country in South Asia; and is bordered by India to its west, north and east; Burma to its southeast and separated from Nepal and Bhutan by the Chicken’s Neck corridor. To its south, it faces the Bay of Bengal. Bangladesh is the world's eighth-most populous country, with over 160 million people, and among the most densely populated countries.</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Belgium</name>
+		<capital>Brussels</capital>
+		<info>Belgium, officially the Kingdom of Belgium is a federal monarchy in Western Europe. It is a founding member of the European Union and hosts the EU's headquarters as well as those of several other major international organisations such as NATO.Belgium covers an area of 30,528 square kilometres (11,787 sq mi) and has a population of about 11 million people.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Burkina_Faso</name>
+		<capital>Ouagadougou</capital>
+		<info>Burkina Faso is a landlocked country in West Africa around 274,200 square kilometres (105,900 sq mi) in size. It is surrounded by six countries: Mali to the north; Niger to the east; Benin to the southeast; Togo and Ghana to the south; and Ivory Coast to the southwest. Its capital is Ouagadougou. As of 2014, its population was estimated at just over 17.3 million.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Bulgaria</name>
+		<capital>Sofia</capital>
+		<info>Bulgaria, officially the Republic of Bulgaria is a country in southeastern Europe. It is bordered by Romania to the north, Serbia and Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. With a territory of 110,994 square kilometres (42,855 sq mi), Bulgaria is Europe's 16th-largest country.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Burundi</name>
+		<capital>Bujumbura</capital>
+		<info>Burundi is a landlocked country in the African Great Lakes region of East Africa, bordered by Rwanda to the north, Tanzania to the east and south, and the Democratic Republic of the Congo to the west. It is also sometimes considered part of Central Africa. Burundi's capital is Bujumbura. Although the country is landlocked, much of the southwestern border is adjacent to Lake Tanganyika.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Benin</name>
+		<capital>Porto-Novo</capital>
+		<info>Benin, officially the Republic of Benin is a country in West Africa. It is bordered by Togo to the west, by Nigeria to the east and by Burkina Faso and Niger to the north. A majority of the population live on its small southern coastline on the Bight of Benin, part of the Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Brunei</name>
+		<capital>Bandar Seri Begawan</capital>
+		<info>Brunei, officially the Nation of Brunei is a sovereign state located on the north coast of the island of Borneo in Southeast Asia. Apart from its coastline with the South China Sea, it is completely surrounded by the state of Sarawak, Malaysia and it is separated into two parts by the Sarawak district of Limbang. It is the only sovereign state completely on the island of Borneo; the remainder of the island's territory is divided between the nations of Malaysia and Indonesia. Brunei's population was 408,786 in July 2012.</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Bolivia</name>
+		<capital>Sucre</capital>
+		<info>Bolivia, officially known as the Plurinational State of Bolivia is a landlocked country located in western-central South America. It is bordered by Brazil to the north and east, Paraguay and Argentina to the south, Chile to the southwest, and Peru to the west.</info>
+		<continent>South America</continent>
+	</country>
+	<country>
+		<name>Brazil</name>
+		<capital>Brasília</capital>
+		<info>Brazil is the largest country in both South America and the Latin American region. It is the world's fifth largest country, both by geographical area and by population.It is the largest Portuguese-speaking country in the world, and the only one in the Americas.</info>
+		<continent>South America</continent>
+	</country>
+	<country>
+		<name>Bahamas</name>
+		<capital>Nassau</capital>
+		<info>The Bahamas, officially the Commonwealth of The Bahamas is an island country of the Lucayan Archipelago consisting of more than 700 islands, cays, and islets in the Atlantic Ocean, north of Cuba and Hispaniola northwest of the Turks and Caicos Islands southeast of the U.S. state of Florida and east of the Florida Keys. Its capital is Nassau on the island of New Providence. The designation of "Bahamas" can refer to either the country or the larger island chain that it shares with the Turks and Caicos Islands. As stated in the mandate/manifesto of the Royal Bahamas Defence Force, the Bahamas territory encompasses 470,000 km2 (180,000 sq mi) of ocean space.</info>
+		<continent>North America</continent>
+	</country>
+	<country>
+		<name>Bhutan</name>
+		<capital>Thimphu</capital>
+		<info>Bhutan, officially the Kingdom of Bhutan, is a landlocked country in South Asia at the eastern end of the Himalayas. It is bordered to the north by China and to the south, east and west by India. To the west, it is separated from Nepal by the Indian state of Sikkim, while farther south it is separated from Bangladesh by the Indian states of Assam and West Bengal. Bhutan's capital and largest city is Thimphu.</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Botswana</name>
+		<capital>Gaborone</capital>
+		<info>Botswana, officially the Republic of Botswana is a landlocked country located in Southern Africa. The citizens refer to themselves as Batswana. Formerly the British protectorate of Bechuanaland, Botswana adopted its new name after becoming independent within the Commonwealth on 30 September 1966. Since then, it has maintained a strong tradition of stable representative democracy, with a consistent record of uninterrupted democratic elections.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Belarus</name>
+		<capital>Minsk</capital>
+		<info>Belarus , officially the Republic of Belarus, is a landlocked country in Eastern Europe bordered by Russia to the northeast, Ukraine to the south, Poland to the west, and Lithuania and Latvia to the northwest. Its capital is Minsk; other major cities include Brest, Hrodna, Homiel, Mahilyow and Vitsebsk. Over 40% of its 207,600 square kilometres (80,200 sq mi) is forested. Its strongest economic sectors are service industries and manufacturing.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Belize</name>
+		<capital>Belmopan</capital>
+		<info>Belize is a country on the eastern coast of Central America. It is the only country in Central America whose official language is English, though Belizean Creole and Spanish are also commonly spoken. Belize is bordered on the north by Mexico, on the south and west by Guatemala, and on the east by the Caribbean Sea. Its mainland is about 290 km (180 mi) long and 110 km (68 mi) wide.</info>
+		<continent>North America</continent>
+	</country>
+	<country>
+		<name>Canada</name>
+		<capital>Ottawa</capital>
+		<info>Canada is a country, consisting of ten provinces and three territories, in the northern part of the continent of North America. It extends from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles) in total, making it the world's second-largest country by total area and the fourth-largest country by land area. Canada's common border with the United States forms the world's longest land border.</info>
+		<continent>North America</continent>
+	</country>
+	<country>
+		<name>Congo_Democratic</name>
+		<capital>Kinshasa</capital>
+		<info>The Democratic Republic of the Congo, also known as DR Congo, DRC, DROC, RDC, East Congo, Congo-Kinshasa, or simply Congo is a country located in Central Africa. From 1965 to 1997 it was named Zaïre. It borders the Republic of the Congo, the Central African Republic, and South Sudan to the north, Uganda, Rwanda, Burundi and Tanzania to the East, Zambia and Angola to the south and the Atlantic Ocean to the west. It is the second largest country in Africa by area and the eleventh largest in the world. With a population of over 75 million</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Central_African_Republic</name>
+		<capital>Bangui</capital>
+		<info>The Central African Republic is a landlocked country in Central Africa. It is bordered by Chad to the north, Sudan to the northeast, South Sudan to the east, the Democratic Republic of the Congo and the Republic of the Congo to the south and Cameroon to the west. The CAR covers a land area of about 620,000 square kilometres (240,000 sq mi) and had an estimated population of around 4.7 million as of 2014.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Congo_Republic</name>
+		<capital>Brazzaville</capital>
+		<info>The Republic of the Congo, also known as Congo Republic, West Congo, or Congo-Brazzaville, is a country located in Central Africa. It is bordered by five countries: Gabon to the west; Cameroon to the northwest; the Central African Republic to the northeast; the Democratic Republic of the Congo to the east and south; and the Angolan exclave of Cabinda to the southwest.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Switzerland</name>
+		<capital>None</capital>
+		<info>Switzerland is a country in Europe. The Swiss Confederation is a federal parliamentary republic consisting of 26 cantons, with Bern as the seat of the federal authorities, the so-called Bundesstadt. The country is situated in Western and Central Europe, where it is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura, spanning an area of 41,285 km2 (15,940 sq mi). While the Alps occupy the greater part of the territory, the Swiss population of approximately 8 million people is concentrated mostly on the Plateau, where the largest cities are to be found; among them are the two global and economic centres of Zürich and Geneva.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Cote_D_Ivoire</name>
+		<capital>Yamoussoukro</capital>
+		<info>Ivory Coast officially the Republic of Côte d'Ivoire is a country in West Africa. Ivory Coast's de jure capital is Yamoussoukro and the biggest city is the port city of Abidjan.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Chile</name>
+		<capital>Santiago</capital>
+		<info>Chile, officially the Republic of Chile is a South American country occupying a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. It borders Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chilean territory includes the Pacific islands of Juan Fernández, Salas y Gómez, Desventuradas, and Easter Island in Oceania. Chile also claims about 1,250,000 square kilometres (480,000 sq mi) of Antarctica, although all claims are suspended under the Antarctic Treaty.</info>
+		<continent>South America</continent>
+	</country>
+	<country>
+		<name>Cameroon</name>
+		<capital>Yaoundé</capital>
+		<info>Cameroon, officially the Republic of Cameroon is a country in Central Africa. It is bordered by Nigeria to the west; Chad to the northeast; the Central African Republic to the east; and Equatorial Guinea, Gabon, and the Republic of the Congo to the south. Cameroon's coastline lies on the Bight of Bonny, part of the Gulf of Guinea and the Atlantic Ocean. The country is often referred to as "Africa in miniature" for its geological and cultural diversity. Natural features include beaches, deserts, mountains, rainforests, and savannas. The highest point is Mount Cameroon in the southwest, and the largest cities are Douala, Yaoundé, and Garoua. Cameroon is home to over 200 different linguistic groups. The country is well known for its native styles of music, particularly makossa and bikutsi, and for its successful national football team. French and English are the official languages.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>China</name>
+		<capital>Beijing</capital>
+		<info>China, officially the People's Republic of China is a sovereign state in East Asia. It is the world's most populous country, with a population of over 1.35 billion. The PRC is a single-party state governed by the Chinese Communist Party, with its seat of government in the capital city of Beijing. It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities, and two mostly self-governing special administrative regions. The PRC also claims the territories governed by the Republic of China (ROC), a separate political entity commonly known as Taiwan today, as a part of its territory, which includes the island of Taiwan as Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province. These claims are controversial due to the complex political status of Taiwan.</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Colombia</name>
+		<capital>Bogota</capital>
+		<info>Colombia, officially the Republic of Colombia is a country situated in the northwest of South America, bordered to the northwest by Panama; to the east by Venezuela and Brazil; to the south by Ecuador and Peru, and it shares maritime limits with Costa Rica, Nicaragua, Honduras, Jamaica, Dominican Republic and Haiti. It is a unitary, constitutional republic comprising thirty-two departments.</info>
+		<continent>South America</continent>
+	</country>
+	<country>
+		<name>Costa_Rica</name>
+		<capital>San José</capital>
+		<info>Costa Rica, officially the Republic of Costa Rica is a country in Central America, bordered by Nicaragua to the north, Panama to the southeast, the Pacific Ocean to the west, the Caribbean Sea to the east, and Ecuador to the south of Cocos Island. It has a population of around 4.5 million, of whom nearly a quarter live in the metropolitan area of the capital and largest city San José.</info>
+		<continent>North America</continent>
+	</country>
+	<country>
+		<name>Cuba</name>
+		<capital>Havana</capital>
+		<info>Cuba officially the Republic of Cuba is a country in the Caribbean comprising the main island of Cuba, the Isla de la Juventud and several archipelagos. Havana is Cuba's capital and its largest city.The United States is to the north of Cuba 150 km (93 mi) away, the Bahamas and the Turks and Caicos Islands to the northeast, Mexico to the west 210 km (130 mi) away, the Cayman Islands and Jamaica to the south and Haiti to the southeast.</info>
+		<continent>Norht America</continent>
+	</country>
+	<country>
+		<name>Cyprus</name>
+		<capital>Nicosia</capital>
+		<info>Cyprus, officially the Republic of Cyprus is an island country in the Eastern Mediterranean Sea.Cyprus is the third largest and third most populous island in the Mediterranean, and a member state of the European Union. It is located south of Turkey, west of Syria and Lebanon, northwest of Israel and the Gaza Strip, north of Egypt and east of Greece.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Czech_Republic</name>
+		<capital>Prague</capital>
+		<info>The Czech Republic is a landlocked country in Central Europe bordered by Germany to the west, Austria to the south, Slovakia to the east and Poland to the northeast. The capital and largest city, Prague, has over 1.2 million residents. The Czech Republic includes the historical territories of Bohemia, Moravia, and Czech Silesia.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Germany</name>
+		<capital>Berlin</capital>
+		<info>Germany, officially the Federal Republic of Germany is a federal parliamentary republic in western-central Europe. It includes 16 constituent states and covers an area of 357,021 square kilometres (137,847 sq mi) with a largely temperate seasonal climate. Its capital and largest city is Berlin. With 80.7 million inhabitants, Germany is the most populous member state in the European Union. After the United States, it is the second most popular migration destination in the world.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Djibouti</name>
+		<capital>Djibouti City</capital>
+		<info>Djibouti, officially the Republic of Djibouti, is a country located in the Horn of Africa. It is bordered by Eritrea in the north, Ethiopia in the west and south, and Somalia in the southeast. The remainder of the border is formed by the Red Sea and the Gulf of Aden at the east. Djibouti occupies a total area of just 23,200 km2 (8,958 sq mi).</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Denmark</name>
+		<capital>Copenhagen</capital>
+		<info>Denmark is a country in Northern Europe. The southernmost of the Nordic countries, it is located southwest of Sweden and south of Norway, and bordered to the south by Germany. Denmark forms part of the cultural region called Scandinavia, together with Sweden and Norway. The Kingdom of Denmark is a sovereign state that comprises Denmark and two autonomous constituent countries in the North Atlantic Ocean: the Faroe Islands and Greenland.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Dominican_Republic</name>
+		<capital>Santo Domingo</capital>
+		<info>The Dominican Republic is a country on the island of Hispaniola, in the Greater Antilles archipelago in the Caribbean region. The western three-eighths of the island is occupied by the nation of Haiti, making Hispaniola one of two Caribbean islands, along with Saint Martin, that are shared by two countries. Both by area and population the Dominican Republic is the second-largest Caribbean nation (after Cuba), with 48,445 square kilometres (18,705 sq mi) and nearly 10 million people, one million of which live in the capital city Santo Domingo.</info>
+		<continent>North America</continent>
+	</country>
+	<country>
+		<name>Algeria</name>
+		<capital>Algiers</capital>
+		<info>Algeria, officially People's Democratic Republic of Algeria, is a country in North Africa on the Mediterranean coast. Its capital and most populous city is Algiers. With an area of 2,381,741 square kilometres (919,595 sq mi), 90% of which is desert, Algeria is the tenth-largest country in the world and the largest in the Arab world and Africa.[10] It is bordered to the northeast by Tunisia, to the east by Libya, to the west by Morocco, to the southwest by Western Sahara, Mauritania, and Mali, to the southeast by Niger, and to the north by the Mediterranean Sea.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Ecuador</name>
+		<capital>Quito</capital>
+		<info>Ecuador, officially the Republic of Ecuador is a representative democratic republic in northwestern South America, bordered by Colombia on the north, Peru on the east and south, and the Pacific Ocean to the west. Ecuador also includes the Galápagos Islands in the Pacific, about 1,000 kilometres (620 mi) west of the mainland.</info>
+		<continent>South America</continent>
+	</country>
+	<country>
+		<name>Estonia</name>
+		<capital>Tallinn</capital>
+		<info>Estonia, officially the Republic of Estonia is a country in the Baltic region of Northern Europe. It is bordered to the north by the Gulf of Finland, to the west by the Baltic Sea, to the south by Latvia (343 km), and to the east by Lake Peipus and Russia (338.6 km). Across the Baltic Sea lies Sweden in the west and Finland in the north. The territory of Estonia consists of a mainland and over 1500 islands and islets in the Baltic Sea, covering 45,227 km2 (17,462 sq mi) of land, and is influenced by a humid continental climate.</info>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Egypt</name>
+		<capital>Cairo</capital>
+		<info>Egypt, officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and southwest corner of Asia, via a land bridge formed by the Sinai Peninsula. It is the world's only contiguous Eurafrasian nation and most of Egypt's territory of 1,010,408 square kilometres (390,000 sq mi) lies within the Nile Valley. It is a Mediterranean country and is bordered by the Gaza Strip and Israel to the northeast, the Gulf of Aqaba to the east, the Red Sea to the east and south, Sudan to the south and Libya to the west.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Eritrea</name>
+		<capital>Asmara</capital>
+		<info>Eritrea, officially the State of Eritrea is a country in the Horn of Africa. With its capital at Asmara, it is bordered by Sudan in the west, Ethiopia in the south, and Djibouti in the southeast. The northeastern and eastern parts of Eritrea have an extensive coastline along the Red Sea, across from Saudi Arabia and Yemen. The nation has a total area of approximately 117,600 km2 (45,406 sq mi), and includes the Dahlak Archipelago and several of the Hanish Islands. Its name Eritrea is based on the Greek name for the Red Sea (Ἐρυθρὰ Θάλασσα Erythra Thalassa), which was first adopted for Italian Eritrea in 1890.</info>
+		<continent>Africa</continent>
+	</country>
+	<country>
+		<name>Spain</name>
+		<capital>Madrid</capital>
+		<info>Spain, officially the Kingdom of Spain is a sovereign state located on the Iberian Peninsula in southwestern Europe. Its mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean. Along with France and Morocco, it is one of only three countries to have both Atlantic and Mediterranean coastlines. Spain's 1,214 km (754 mi) border with Portugal is the longest uninterrupted border within the European Union.</info>
+		<continent>Europe</continent>
+	</country>
+	
+	<country>
+		<name>India</name>
+		<capital>New Delhi</capital>
+		<info>India, officially the Republic of India is a country in South Asia. It is the seventh-largest country by area, the second-most populous country with over 1.2 billion people, and the most populous democracy in the world.</info>
+		<continent>Asia</continent>
+	</country>
+	<country>
+		<name>Russia</name>
+		<capital>Moscow</capital>
+		<info>Russia , also officially known as the Russian Federation is a country in northern Eurasia. It is a federal semi-presidential republic. At 17,075,400 square kilometres (6,592,800 sq mi), Russia is the largest country in the world, covering more than one-eighth of the Earth's inhabited land area. Russia is also the world's ninth most populous nation with nearly 144 million people as of 2015.</info>
+		<continent>Eurasia</continent>
+	</country>
+	<country>
+		<name>United_States</name>
+		<capital>Washington D.C</capital>
+		<info>The United States of America, commonly referred to as the United States or America, is a federal republic consisting of 50 states and a federal district. The 48 contiguous states and Washington D.C. are in central North America between Canada and Mexico.The state of Alaska is located in the northwestern part of North America and the state of Hawaii is an archipelago in the mid-Pacific. </info>
+		<continent>North America</continent>
+	</country>
+</country_info>

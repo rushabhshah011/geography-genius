@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Geography Genius</title>
+
+	<!-- CSS dependencies -->
+    <link rel="stylesheet" href="css/demo.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/demo-print.css" type="text/css" media="print">
+	<link rel="shortcut icon" href="world.ico" />
+	<link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
+    
+	<!-- World map code -->
+	<script src="js/raphael_2.0.2.js" type="text/javascript"></script>
+    <script src="js/world_1000.js" type="text/javascript"></script>
+	
+	
+	<!-- JS dependencies -->	
+	<script src="js/jquery-1.11.3.min.js"></script>
+	<script src="dist/js/bootstrap.min.js"></script>
+
+	<!-- bootbox code -->
+	<script src="bootbox.min.js"></script>
+	<script src="common.js"></script>
+
+<script type="text/javascript">  		
+    
+window.onload = function () {
+	quizLoad("continents");
+};
+
+
+
+</script>
+</head>
+<body style="background: #333;"> 
+    <div id="holder_1000" style="position:relative;"></div>
+	<div style="width: 100%;" id="questions">
+		<div style="float: left;width: 150px;"><a href="index.html"><input type="button" value="Home" onclick="ff()" class="btn" style=" float: left;"></a>
+			<input type="button" id="Instructions" value="Instructions" class="btn" onclick="instructions()">
+		</div>
+ 
+	<div id="right_btns" style="float: right;width: 150px;">
+ 		<input type="button" id="next" value="Next" onclick="next_question(this)" class="btn" style=" float: right;">
+		<a href="flag.html"><input type="button" value="Flag Quiz" class="btn" style=" float: right;"></a>
+	</div>
+ 
+	<div style="text-align:center; margin:0 auto;">
+		<table id="question_table" style="display:inline-block; text-align:center;" >
+			<tr>
+				<td colspan="2"><label id ="question" style="color:#FFF;"></label></td>
+			</tr>
+			<tr>
+				<td style="text-align:left;"><input type="radio" id="answer1" name="answer" value=""><label id ="option1" style="color:#FFF;"></label></td>
+				<td style="text-align:left;"><input type="radio" id="answer2" name="answer" value=""><label id ="option2" style="color:#FFF;"></label></td>
+			</tr>
+			<tr>  
+				<td style="text-align:left;"><input type="radio" id="answer4" name="answer" value=""><label id ="option4" style="color:#FFF;"></label></td>
+				<td style="text-align:left;"><input type="radio" id="answer3" name="answer" value=""><label id ="option3" style="color:#FFF;"></label></td>
+			</tr>
+		</table>
+	</div>
+ <br style="clear: left;" />
+	</div>
+	<center>
+		<div id="result">
+			<table>
+				<tr>
+					<td><label id="q" style="color:#FFF;"></label></td>
+					<td><label id="a" style="color:#FFF;"></label></td>
+					<td><label id="ua" style="color:#FFF;"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q0"></label></td>
+					<td><label id="u0"></label></td>
+					<td><label id="ua0"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q1"></label></td>
+					<td><label id="u1"></label></td>
+					<td><label id="ua1"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q2"></label></td>
+					<td><label id="u2"></label></td>
+					<td><label id="ua2"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q3"></label></td>
+					<td><label id="u3"></label></td>
+					<td><label id="ua3"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q4"></label></td>
+					<td><label id="u4"></label></td>
+					<td><label id="ua4"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q5"></label></td>
+					<td><label id="u5"></label></td>
+					<td><label id="ua5"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q6"></label></td>
+					<td><label id="u6"></label></td>
+					<td><label id="ua6"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q7"></label></td>
+					<td><label id="u7"></label></td>
+					<td><label id="ua7"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q8"></label></td>
+					<td><label id="u8"></label></td>
+					<td><label id="ua8"></label></td>
+				</tr>
+				<tr>
+					<td><label id="q9"></label></td>
+					<td><label id="u9"></label></td>
+					<td><label id="ua9"></label></td>
+				</tr>
+				<tr>
+					<td><label id="score_text" style="color:#FFF;"></label></td>
+					<td></td>
+					<td><label id="score" style="color:#FFF;"></label></td>
+				</tr>
+			</table>
+		</div>
+	</center>
+</body>
+</html>

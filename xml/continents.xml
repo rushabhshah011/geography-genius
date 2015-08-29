@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_bank>
+	<question answer="Asia">
+		<question_text>Which continent does India belong to?</question_text>
+		<option>Asia</option>
+		<option>North America</option>
+		<option>Europe</option>
+		<option>Africa</option>
+	</question>
+	<question answer="Asia">
+		<question_text>Which continent does United Arab Emirates belong to?</question_text>
+		<option>Africa</option>
+		<option>Europe</option>
+		<option>Asia</option>
+		<option>South America</option>
+	</question>
+	<question answer="Zealandia">
+		<question_text>Which continent does New Zealand belong to?</question_text>
+		<option>Zealandia</option>
+		<option>Australia</option>
+		<option>Antarctica</option>
+		<option>Europe</option>
+	</question>
+	<question answer="Eurasia">
+		<question_text>Which continent does Russia belong to?</question_text>
+		<option>Eurasia</option>
+		<option>Europe</option>
+		<option>Asia</option>
+		<option>North America</option>
+	</question>
+	<question answer="5">
+		<question_text>How many oceans are in the world?</question_text>
+		<option>4</option>
+		<option>5</option>
+		<option>6</option>
+		<option>3</option>
+	</question>
+	<question answer="Indian">
+		<question_text>In which ocean is the island of java located?</question_text>
+		<option>Arctic</option>
+		<option>Atlantic</option>
+		<option>Southern ocean</option>
+		<option>Indian</option>
+	</question>
+	<question answer="Australia">
+		<question_text>Which one of these is Continent?</question_text>
+		<option>Brazil</option>
+		<option>Russia</option>
+		<option>United States</option>
+		<option>Australia</option>
+	</question>
+	<question answer="Pacific">
+		<question_text>Japan is surrounded by Which ocean?</question_text>
+		<option>Arctic</option>
+		<option>Pacific</option>
+		<option>Indian</option>
+		<option>Atlantic</option>
+	</question>
+	<question answer="Indian">
+		<question_text>Sri Lanka is surrounded by Which ocean?</question_text>
+		<option>Southern</option>
+		<option>Indian</option>
+		<option>Atlantic</option>
+		<option>Pacific</option>
+	</question>
+	<question answer="Atlantic">
+		<question_text>Iceland is surrounded by Which ocean?</question_text>
+		<option>Southern</option>
+		<option>Arctic</option>
+		<option>Atlantic</option>
+		<option>Pacific</option>
+	</question>
+</question_bank>

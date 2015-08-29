@@ -1,0 +1,15 @@
+welcome to geography genius. Geography genius will help players to improve their geographical knowledge. This is the explorer mode. Players can see country's name as they move around the cursor in this mode. Country name,capital,flag and a brief introduction about it will be displayed on click. Let's see the flag quiz. IN flag quiz 5 flags of different countries will be displayed. Players need to select the flag and then click on the country map. If the answer is incorrect, then the selected country will turn red and if the answer is correct then the country flag will fade. Remember, you can always reload if you don't know the answer. lets take the quiz now. There will be 3 levels in the quiz, each level will have 10 questions, you need to answer all 10 questions correctly in order to unlock the next level,  you can use help by exploring the map. 
+
+
+
+Objective : Geography genius will help players to improve their geography knowledge through Interactive Map and quiz.
+
+Goal : Create Light weight Geography game without using any Images, Database, Server side Scripting language.
+
+1. All map and country flags are made using html 5 only no images are used in game
+
+2. XML files are used instead of database provides 100% portability to game
+
+3. JavaScript is begin used for core logic.
+
+These are the thing which makes this game 100% portable and light weight.

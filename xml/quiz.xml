@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_bank>
+	<question answer="India">
+		<question_text>Which is largest democratic country in the world?</question_text>
+		<option>India</option>
+		<option>United States of America</option>
+		<option>Russia</option>
+		<option>China</option>
+	</question>
+	<question answer="Kazakhstan">
+		<question_text>Which is largest landlocked country in the world?</question_text>
+		<option>Mongolia</option>
+		<option>Tajikistan</option>
+		<option>Kazakhstan</option>
+		<option>Pakistan</option>
+	</question>
+	<question answer="China">
+		<question_text>Which is most populated country in the world?</question_text>
+		<option>India</option>
+		<option>Australia</option>
+		<option>Russia</option>
+		<option>China</option>
+	</question>
+	<question answer="Russia">
+		<question_text>Which country has largest land area in the world?</question_text>
+		<option>China</option>
+		<option>United States</option>
+		<option>Russia</option>
+		<option>Australia</option>
+	</question>
+	<question answer="Canada">
+		<question_text>Which is the countries with largest water area?</question_text>
+		<option>Canada</option>
+		<option>India</option>
+		<option>Russia</option>
+		<option>China</option>
+	</question>
+	<question answer="Greenland">
+		<question_text>Which is largest island in the world?</question_text>
+		<option>Madagascar</option>
+		<option>Java</option>
+		<option>Greenland</option>
+		<option>Victoria Island</option>
+	</question>
+	<question answer="Australia">
+		<question_text>Which one of these is Continent?</question_text>
+		<option>Japan</option>
+		<option>Russia</option>
+		<option>United States</option>
+		<option>Australia</option>
+	</question>
+	<question answer="United Arab Emirates">
+		<question_text>Which one these country is not in Sahara desert?</question_text>
+		<option>United Arab Emirates</option>
+		<option>Egypt</option>
+		<option>Libya</option>
+		<option>Morocco</option>
+	</question>
+	<question answer="Morocco">
+		<question_text>Nile is not passing though one of these countries, Select that country.</question_text>
+		<option>Egypt</option>
+		<option>Ethiopia</option>
+		<option>Uganda</option>
+		<option>Morocco</option>
+	</question>
+	<question answer="Chile">
+		<question_text>Which is the nearest countries to South Pole?</question_text>
+		<option>Chile</option>
+		<option>South Africa</option>
+		<option>New Zealand</option>
+		<option>Australia</option>
+	</question>
+</question_bank>
